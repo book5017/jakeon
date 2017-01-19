@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: H2
+Bundle-SymbolicName: com.jakeon.hicube.h2
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JAKEON
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.jakeon.hicube.io
